@@ -1,6 +1,6 @@
 name: neoversion
 description: Check if an app has a newer version on the app stores, and prompt the user to update if needed.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/jozsefsallai/flutter_neoversion
 
 environment:
@@ -10,5 +10,5 @@ dependencies:
   flutter:
     sdk: flutter
   package_info_plus: ^1.4.2
-  peekanapp: ^0.0.1
+  peekanapp: ^0.0.2
   url_launcher: ^6.1.5
